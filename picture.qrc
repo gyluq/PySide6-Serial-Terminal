@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="bg">
+    <file>Image/git.png</file>
+    <file>Image/failed.png</file>
+    <file>Image/success.png</file>
+  </qresource>
+</RCC>
